@@ -1,17 +1,8 @@
 
-	
 	<title>
-	echo "# Aligator" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git remote add origin git@github.com: Alex-ai-del / Aligator.git
- git push -u мастер источника
-	
+	binomo
 </title>
 <head>
-
-	
 		<meta charset="utf-8">
 		
 		<link rel='stylesheet' type='text/css'>
